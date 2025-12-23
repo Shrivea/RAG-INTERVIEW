@@ -1,0 +1,31 @@
+EDUCATION
+University of Wisconsin-Madison
+Bachelor of Science in Computer Science and Data Science
+Expected Graduation: Spring 2026
+Relevant Coursework: Deep Learning (STAT 453), Big Data Systems (CS 544), Human-Computer Interaction
+EXPERIENCE
+
+AI Engineering Intern - MicroStrategy (Summer 2025)
+- Developed AI dashboard replication system using YOLO models and GPT-4
+- Achieved 92% accuracy in dashboard component detection
+- Reduced manual replication time by 99%
+- Worked with computer vision, AWS deployment, and API development
+
+Data Science Intern - AZEK (Previous internship)
+- Cybersecurity data analysis
+- Data pipeline development
+
+Software Engineering Intern - Nanonino
+- Full-stack development
+- API integration
+
+Software Engineering Intern - KloudFuse
+- Backend systems development
+- Microservices architecture
+
+TECHNICAL SKILLS
+Languages: Python, Java, JavaScript, SQL
+Frameworks: TensorFlow, PyTorch, React, FastAPI
+Tools: AWS, Docker, Git, Kafka, Cassandra, HDFS
+Specialties: Machine Learning, Distributed Systems, RAG Systems, Computer Vision
+EOF

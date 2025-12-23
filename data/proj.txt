@@ -1,0 +1,30 @@
+TECHNICAL PROJECTS
+
+Distributed Systems Projects (CS 544)
+- Built fault-tolerant weather management system using Apache Spark, HDFS, Cassandra
+- Implemented LRU caching with gRPC servers
+- Created end-to-end data analytics pipelines with Kafka
+- Developed multi-node distributed systems with replication and fault tolerance
+
+Deep Learning Projects (STAT 453)
+- Implemented neural networks from scratch in NumPy
+- Built GANs and autoencoders for image generation
+- Worked with attention mechanisms and transformers
+- Sentiment analysis using CNN-LSTM models for political discourse
+
+MicroStrategy AI Dashboard System
+- YOLO-based computer vision for dashboard component detection
+- GPT-4 integration for intelligent replication
+- AWS Lambda deployment for production scaling
+- Achieved 92% detection accuracy across various dashboard types
+
+Movie Recommendation System
+- Collaborative filtering implementation
+- Matrix factorization techniques
+- Real-time recommendation engine
+
+RAG Systems & Multi-Agent AI
+- Production-grade RAG implementation with vector databases
+- Multi-agent workflows for complex task automation
+- Fine-tuning and prompt engineering optimization
+EOF

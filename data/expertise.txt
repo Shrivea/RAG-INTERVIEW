@@ -1,0 +1,33 @@
+TECHNICAL EXPERTISE
+
+Machine Learning & AI
+- Deep neural networks, CNNs, RNNs, LSTMs, Transformers
+- GANs, Autoencoders, Attention mechanisms
+- Computer vision with YOLO, object detection
+- RAG systems with embeddings and vector search
+- Fine-tuning LLMs (GPT-3.5, GPT-4)
+- Prompt engineering and multi-agent systems
+
+Distributed Systems
+- Apache Kafka for stream processing
+- Apache Spark for big data processing
+- Cassandra for distributed databases
+- HDFS for distributed file systems
+- gRPC for inter-service communication
+- Fault tolerance and replication strategies
+- Multi-node cluster management
+
+Cloud & DevOps
+- AWS (Lambda, S3, EC2, CloudFormation)
+- Docker containerization
+- Microservices architecture
+- API development (REST, gRPC)
+- CI/CD pipelines
+
+Data Engineering
+- ETL pipeline development
+- Real-time data processing
+- Data warehousing concepts
+- SQL optimization
+- NoSQL databases (Cassandra, MongoDB)
+EOF
